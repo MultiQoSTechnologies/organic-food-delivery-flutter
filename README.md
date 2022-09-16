@@ -29,3 +29,7 @@ Project Created & Maintained By
 
 [MultiQoS Pvt. Ltd.](https://multiqos.com/)
 
+## LICENSE!
+Organic Food Delivery Flutter is [MIT-licensed.](https://github.com/MultiQoSTechnologies/organic-food-delivery-flutter/blob/master/LICENSE)
+
+
